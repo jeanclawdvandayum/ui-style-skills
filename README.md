@@ -14,7 +14,7 @@ Character density as visual language. Organic shapes rendered through ASCII char
 ---
 
 ### ASCII Type
-Text rendered as fields of ASCII characters on dark backgrounds. A bitmap font engine that rasterizes text through a 6×8 grid, mapping each cell to density-weighted character pools. Green phosphor glow, CRT scanlines, ambient drift.
+Text rendered as fields of ASCII characters on dark backgrounds. A bitmap font engine that rasterizes text through a 6×8 grid, mapping each cell to density-weighted character pools. Configurable color palettes (warm amber, phosphor green, cool blue — any color works), CRT scanlines, ambient drift, and glitch pulses.
 
 ![ASCII Type](previews/ascii-type.jpg)
 
