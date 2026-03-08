@@ -6,6 +6,20 @@ A collection of opinionated UI aesthetic skills for AI coding agents. Each skill
 
 ## The Styles
 
+### ASCII Dither
+Character density as visual language. Organic shapes rendered through ASCII characters at varying densities — `░▒▓█`. The dithering IS the design itself. Dark backgrounds, amber/green accents, monospaced everything.
+
+![ASCII Dither](previews/ascii-dither-style.jpg)
+
+---
+
+### ASCII Type
+Text rendered as fields of ASCII characters on dark backgrounds. A bitmap font engine that rasterizes text through a 6×8 grid, mapping each cell to density-weighted character pools. Green phosphor glow, CRT scanlines, ambient drift.
+
+![ASCII Type](previews/ascii-type.jpg)
+
+---
+
 ### Blueprint UI
 Technical schematic / engineering blueprint aesthetic. Cyan lines on dark navy, circuit diagram patterns, grid-paper overlays, precise geometric construction, annotation callouts, dimension lines.
 
@@ -24,6 +38,13 @@ Warm editorial technical folio. Parchment paper, high-contrast serif headlines, 
 Neon street art maximalism. Explosive cyan, magenta, acid yellow on dark backgrounds. Paint splatters, drip effects, sticker labels, spray-paint gradients. Anti-minimal. Maximum energy.
 
 ![Graffiti UI](previews/graffiti-ui.jpg)
+
+---
+
+### LaTeX Style
+Academic paper aesthetic for web pages. Computer Modern / Latin Modern typography, theorem environments, numbered sections, justified text, booktabs tables. The distinctive scholarly typographic rhythm of a properly typeset research paper.
+
+![LaTeX Style](previews/latex-style.jpg)
 
 ---
 
@@ -52,6 +73,20 @@ Vintage typography specimen / letterpress aesthetic. Mixed type styles across er
 Dark modular synthesizer aesthetic. Near-black backgrounds, teal/green accent lighting, knob and slider UI metaphors, LED indicator dots, patch cable connections, oscilloscope waveforms, VU meters, dense control panel layouts. Inspired by Eurorack and vintage audio equipment.
 
 ![Synth UI](previews/synth-ui.jpg)
+
+---
+
+### Visual Explainer
+Clean dark technical documentation style. Dark slate backgrounds, colored badge system (blue/green/amber/red), flow diagrams, code blocks with syntax highlighting, metric cards, comparison tables. The "explain a system visually" workhorse.
+
+![Visual Explainer](previews/visual-explainer.jpg)
+
+---
+
+### Voxel Type
+GPU-rendered voxelized typography. Text as dense grids of nested-square cells with directional lighting, edge dithering, bloom post-processing, and glitch corruption. Three.js + custom shaders + EffectComposer. Kinetic mosaic typography.
+
+![Voxel Type](previews/voxel-type.jpg)
 
 ---
 
